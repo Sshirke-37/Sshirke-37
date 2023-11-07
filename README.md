@@ -2,7 +2,7 @@
 - 👀 I’m interested in Drawing
 - 🌱 I’m currently learning Coding Languages and Algorithms
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me E-Mail (sohamshirke.372gmail.com)
+- 📫 How to reach me E-Mail (sohamshirke.37@gmail.com)
 
 <!---
 Sshirke-37/Sshirke-37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
