@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sshirke-37
+- 👋 Hi, I’m Soham 
 - 👀 I’m interested in Drawing
 - 🌱 I’m currently learning Coding Languages and Algorithms
 - 💞️ I’m looking to collaborate on Nothing
