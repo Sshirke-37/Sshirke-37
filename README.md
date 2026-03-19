@@ -1,4 +1,3 @@
-Here’s your profile content polished into a **clean, attractive, and easy‑to‑copy README format**. I’ve used headings, bullet points, and spacing so it looks professional and recruiter‑friendly:
 
 ---
 
