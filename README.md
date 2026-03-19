@@ -46,6 +46,3 @@
 
 ---
 
-👉 This format is **ready to copy‑paste** into your GitHub profile README. It uses icons and spacing to make it visually appealing while staying professional.  
-
-Would you like me to also design a **short tagline/slogan** for *Shetkari Sakha* that you can place at the very top of its repo?
