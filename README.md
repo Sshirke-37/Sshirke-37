@@ -23,8 +23,8 @@
 - **Design:** UX/UI principles, clean layouts, pastel themes, progress feedback  
 
 ---
-
 ## 🚀 Featured Projects  
+
 - **Shetkari Sakha – Farmer’s Smart Assistant**  
   A community‑centric platform for farmers with AI crop disease detection, market price tracking, and community collaboration.  
 
@@ -33,6 +33,12 @@
 
 - **Carental Management System**  
   An easy‑to‑use website for customers to pool a car according to their need.  
+
+- **Medicine Reminder App**  
+  An Android application designed to assist elderly individuals and caregivers in managing daily medication routines.  
+  Features include scheduled reminders with voice alerts, inventory tracking, caregiver notifications, and an emergency SOS button.  
+  Built using **Java, Android Studio, Room Database, and Firebase**, this app improves medication adherence and provides peace of mind for families.
+
 
 ---
 
