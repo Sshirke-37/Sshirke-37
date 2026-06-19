@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hi, I'm Soham  
+## 👋 Hi, I'm Soham  
 
 **Practical Technologist | UX‑Focused Developer | Builder of Interactive Dashboards & Conversion Tools**
 
