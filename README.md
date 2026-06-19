@@ -1,4 +1,3 @@
-
 ---
 
 # 👋 Hi, I'm Soham  
@@ -23,22 +22,22 @@
 - **Design:** UX/UI principles, clean layouts, pastel themes, progress feedback  
 
 ---
+
 ## 🚀 Featured Projects  
 
-- **Shetkari Sakha – Farmer’s Smart Assistant**  
+- **Shetkari Sakha – Farmer’s Smart Assistant (Ongoing)**  
   A community‑centric platform for farmers with AI crop disease detection, market price tracking, and community collaboration.  
 
 - **PDF to Excel Converter (Completed)**  
   Upload PDFs, extract tables, and download Excel files with real‑time feedback.  
 
-- **Carental Management System**  
+- **Carental Management System (Completed)**  
   An easy‑to‑use website for customers to pool a car according to their need.  
 
-- **Medicine Reminder App**  
-  An Android application designed to assist elderly individuals and caregivers in managing daily medication routines.  
-  Features include scheduled reminders with voice alerts, inventory tracking, caregiver notifications, and an emergency SOS button.  
-  Built using **Java, Android Studio, Room Database, and Firebase**, this app improves medication adherence and provides peace of mind for families.
-
+- **CareBell – Smart Caregiver Assistant (Completed) version-1.0**  
+  A mobile‑first solution designed to connect families and caregivers in real time.  
+  Features include a **Family Dashboard** for monitoring medicine intake, **Caregiver Alerts** for missed doses or low stock, and an **Emergency SOS system** with GPS location sharing.  
+  Built with **Firebase, Android Studio, and cloud messaging services**, CareBell ensures timely communication and enhances elderly care by bridging the gap between patients, families, and healthcare providers.
 
 ---
 
@@ -51,4 +50,3 @@
 ✨ From – **Soham**
 
 ---
-
