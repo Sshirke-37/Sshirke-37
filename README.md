@@ -34,6 +34,11 @@
 - **Carental Management System (Completed)**  
   An easy‑to‑use website for customers to pool a car according to their need.   
 
+- **Medicine Reminder App (Completed)**  
+  An Android application designed to assist elderly individuals and caregivers in managing daily medication routines.  
+  Features include scheduled reminders with voice alerts, inventory tracking, caregiver notifications, and an emergency SOS button.  
+  Built using **Java, Android Studio, Room Database, and Firebase**, this app improves medication adherence and provides peace of mind for families.  
+
 - **CareBell – Smart Caregiver Assistant (Completed, v1.0)**  
   A mobile‑first solution designed to connect families and caregivers in real time.  
   Features include a **Family Dashboard** for monitoring medicine intake, **Caregiver Alerts** for missed doses or low stock, and an **Emergency SOS system** with GPS location sharing.  
