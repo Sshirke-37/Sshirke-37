@@ -1,6 +1,4 @@
----
-
-## 👋 Hi, I'm Soham  
+# 👋 Hi, I'm Soham  
 
 **Practical Technologist | UX‑Focused Developer | Builder of Interactive Dashboards & Conversion Tools**
 
@@ -25,33 +23,29 @@
 
 ## 🚀 Featured Projects  
 
-- **Shetkari Sakha – Farmer’s Smart Assistant (Ongoing)**  
-  A community‑centric platform for farmers with AI crop disease detection, market price tracking, and community collaboration.  
+### 🌾 Shetkari Sakha – Farmer’s Smart Assistant (Ongoing)  
+Community‑centric platform for farmers with AI crop disease detection, market price tracking, and collaboration tools.  
 
-- **PDF to Excel Converter (Completed)**  
-  Upload PDFs, extract tables, and download Excel files with real‑time feedback.  
+### 📄 PDF to Excel Converter (Completed)  
+Upload PDFs, extract tables, and download Excel files with real‑time feedback.  
 
-- **Carental Management System (Completed)**  
-  An easy‑to‑use website for customers to pool a car according to their need.   
+### 🚗 Carental Management System (Completed)  
+Website for customers to pool a car according to their need.  
 
-- **Medicine Reminder App (Completed)**  
-  An Android application designed to assist elderly individuals and caregivers in managing daily medication routines.  
-  Features include scheduled reminders with voice alerts, inventory tracking, caregiver notifications, and an emergency SOS button.  
-  Built using **Java, Android Studio, Room Database, and Firebase**, this app improves medication adherence and provides peace of mind for families.  
+### 💊 Medicine Reminder App (Completed)  
+Android app for elderly individuals and caregivers to manage daily medication routines.  
+Built with **Java, Android Studio, Room Database, Firebase**.  
 
-- **CareBell – Smart Caregiver Assistant (Completed, v1.0)**  
-  A mobile‑first solution designed to connect families and caregivers in real time.  
-  Features include a **Family Dashboard** for monitoring medicine intake, **Caregiver Alerts** for missed doses or low stock, and an **Emergency SOS system** with GPS location sharing.  
-  Built with **Firebase, Android Studio, and cloud messaging services**, CareBell ensures timely communication and enhances elderly care by bridging the gap between patients, families, and healthcare providers.
+### 🛎 CareBell – Smart Caregiver Assistant (Completed, v1.0)  
+Mobile‑first solution connecting families and caregivers in real time.  
+Built with **Firebase, Android Studio, Cloud Messaging**.  
 
 ---
 
 ## 🌐 Connect With Me  
 - **LinkedIn:** [Soham Shirke](https://www.linkedin.com/in/soham-shirke-736040317/)  
-- **Email:** sohamshirke.37@gmail.com  
+- **Email:** [sohamshirke.37@gmail.com](mailto:sohamshirke.37@gmail.com)  
 
 ---
 
 ✨ From – **Soham**
-
----
