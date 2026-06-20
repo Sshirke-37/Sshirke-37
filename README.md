@@ -33,12 +33,9 @@ Upload PDFs, extract tables, and download Excel files with real‑time feedback.
 ### 🚗 Carental Management System (Completed)  
 Website for customers to pool a car according to their need.  
 
-### 💊 Medicine Reminder App (Completed)  
-Android app for elderly individuals and caregivers to manage daily medication routines.  
-Built with **Java, Android Studio, Room Database, Firebase**.  
-
-### 🛎 CareBell – Smart Caregiver Assistant (Completed, v1.0)  
+### 🛎 CareBell – Smart Caregiver Assistant - Medicine Reminder App (Completed, v1.0)  
 Mobile‑first solution connecting families and caregivers in real time.  
+Android app for elderly individuals and caregivers to manage daily medication routines.  
 Built with **Firebase, Android Studio, Cloud Messaging**.  
 
 ---
