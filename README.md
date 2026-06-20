@@ -1,13 +1,3 @@
----
-name: "Soham Shirke"
-title: "Practical Technologist | UX-Focused Developer"
-description: "Builder of Interactive Dashboards & Conversion Tools"
-linkedin: "https://www.linkedin.com/in/soham-shirke-736040317/"
-email: "sohamshirke.37@gmail.com"
----
-
-
-
 
 # 👋 Hi, I'm Soham  
 
